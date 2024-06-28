@@ -1,0 +1,1 @@
+const kien1: string = "kien1"
